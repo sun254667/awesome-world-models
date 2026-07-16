@@ -3,7 +3,7 @@
 # 🎥 Awesome World Models
 
 <p align="center">
-  <img src="banner.png" alt="Awesome World Models" width="100%">
+  <img src="wm_banner.png" alt="Awesome World Models" width="100%">
 </p>
 
 <p align="center">
