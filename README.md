@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="QRcode.png" alt="Awesome World Models" width="100%">
+  <img src="wm_QRcode.png" alt="Awesome World Models" width="100%">
 </p>
 </div>
 
