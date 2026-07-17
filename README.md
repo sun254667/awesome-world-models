@@ -145,6 +145,7 @@
   - Publication: arXiv 2026 
   - Highlights: An advanced iteration of LingBot-World featuring unbounded interaction horizon, 60 fps 720p real-time rendering, diverse interactive elements, and integration of an agentic harness with pilot and director agents.
   - Paper Link: [arXiv](https://arxiv.org/abs/2607.07534)
+  - WeChat Article: https://mp.weixin.qq.com/s/c85iqjY_8EZQHPFdLaRIbw
 
 - **Next Forcing: Causal World Modeling with Multi-Chunk Prediction**
   - Publication: arXiv 2026 
@@ -155,11 +156,13 @@
   - Publication: arXiv 2026 
   - Highlights: A general world foundation model from BAAI that learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interfaces. Pre-trained on 125K hours of video data and 160M event annotations.
   - Paper Link: [arXiv](https://arxiv.org/abs/2606.30534)
+  - WeChat Article: https://mp.weixin.qq.com/s/5G3Rc5o9yEThojhhECq2Lw
 
 - **Qwen-RobotWorld: Unifying Embodied World Modeling through Language-Conditioned Video Generation**
   - Publication: arXiv 2026 
   - Highlights: A language-conditioned video world model that predicts future visual trajectories across multiple robotic domains using a double-stream diffusion transformer and an 8.6M video-text embodied world knowledge corpus.
   - Paper Link: [arXiv](https://arxiv.org/abs/2606.17030)
+  - WeChat Article: https://mp.weixin.qq.com/s/EcOM534uHHJ8jwQ4sSK9og
 
 - **ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment**
   - Publication: arXiv 2026 
@@ -229,6 +232,7 @@
   - Publication: arXiv 2026 
   - Highlights: A general world foundation model from BAAI that learns a unified world latent space from multimodal world signals. Orca learns through two complementary paradigms: unconscious learning (dense natural state transitions from continuous videos) and conscious learning (sparse meaningful state transitions by language-described events and VQA supervision).
   - Paper Link: [arXiv](https://arxiv.org/abs/2606.30534)
+  - WeChat Article: https://mp.weixin.qq.com/s/5G3Rc5o9yEThojhhECq2Lw
 
 - **Looped World Models**
   - Publication: arXiv 2026 
@@ -289,11 +293,13 @@
   - Publication: arXiv 2026 
   - Highlights: An open-sourced world simulator stemming from video generation that maintains high fidelity and robust dynamics across a broad spectrum of environments.
   - Paper Link: [arXiv](https://arxiv.org/abs/2601.20540)
+  - WeChat Article: https://mp.weixin.qq.com/s/c85iqjY_8EZQHPFdLaRIbw
 
 - **LingBot-World-Infinity (Infinite Worlds with Versatile Interactions)**
   - Publication: arXiv 2026 
   - Highlights: Achieves unbounded interaction horizon with consistent output quality, distills a real-time variant for 60 fps 720p video streams, and introduces diverse interactive elements and multi-player support.
   - Paper Link: [arXiv](https://arxiv.org/abs/2607.07534)
+  - WeChat Article: https://mp.weixin.qq.com/s/c85iqjY_8EZQHPFdLaRIbw
 
 - **ActWorld: From Explorable to Interactive World Model via Action-Aware Memory**
   - Publication: arXiv 2026 
@@ -344,6 +350,7 @@
   - Publication: arXiv 2026 
   - Highlights: A video-action foundation model built from the ground up for embodiment, featuring a semantic visual-action tokenizer, causal pretraining paradigm, sparse MoE backbone, and enhanced asynchronous inference scheme for real-time closed-loop control.
   - Paper Link: [arXiv](https://arxiv.org/abs/2607.08639)
+  - WeChat Article: https://mp.weixin.qq.com/s/YI7j20M11WanZSlartWPwA
 
 - **DiM-WAM: World Action Modeling with Diverse Historical Event Memory**
   - Publication: arXiv 2026 
@@ -435,6 +442,7 @@
   - Publication: arXiv 2026 
   - Highlights: A language-conditioned video world model for embodied intelligence that predicts physically grounded future visual trajectories across robotic manipulation, autonomous driving, indoor navigation, and human-to-robot transfer.
   - Paper Link: [arXiv](https://arxiv.org/abs/2606.17030)
+  - WeChat Article: https://mp.weixin.qq.com/s/EcOM534uHHJ8jwQ4sSK9og
 
 - **PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**
   - Publication: arXiv 2026 
