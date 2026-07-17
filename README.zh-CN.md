@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎥 Awesome World Models（世界模型精选资源）
+# 🎥 Awesome World Models
 
 <p align="center">
   <img src="wm_banner.png" alt="Awesome World Models" width="100%">
