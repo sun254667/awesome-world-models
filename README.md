@@ -204,7 +204,7 @@
 - **HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**
   - Publication: arXiv 2026 
   - Highlights: A multi-modal world model framework that accommodates diverse input modalities (text prompts, single-view images, multi-view images, videos) and produces 3D world representations (meshes / Gaussian Splattings).
-  - Paper Link: [arXiv](https://arxiv.org/abs/2604.09772)
+  - Paper Link: [arXiv](https://arxiv.org/pdf/2604.14268)
 
 - **3D-Belief: Embodied Belief Inference via Generative 3D World Modeling**
   - Publication: arXiv 2026 
