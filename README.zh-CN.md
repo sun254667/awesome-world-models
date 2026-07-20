@@ -201,7 +201,7 @@
 - **HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**
   - 发表：arXiv 2026
   - 亮点：一个多模态世界模型框架，支持多种输入模态（文本提示、单视图图像、多视图图像、视频）并生成 3D 世界表示（网格 / 高斯泼溅）。
-  - 论文链接：[arXiv](https://arxiv.org/abs/2604.09772)
+  - 论文链接：[arXiv](https://arxiv.org/pdf/2604.14268)
 
 - **3D-Belief: Embodied Belief Inference via Generative 3D World Modeling**
   - 发表：arXiv 2026
