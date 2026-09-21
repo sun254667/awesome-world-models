@@ -2049,6 +2049,11 @@
 
 ### 8.2 自动驾驶
 
+- **DriveVA: Video Action Models are Zero-Shot Drivers**
+  - 发表：ECCV 2026
+  - 亮点：联合预测未来视频潜变量与驾驶动作，并展示向 nuScenes 和 Bench2Drive 的零样本迁移能力。
+  - 论文链接：[论文](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) | [代码](https://github.com/xiaomi-mlab/DriveVA)
+
 - **M⁴World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**
   - 发表：arXiv 2026
   - 亮点：多视角多模态生成式驾驶世界模型，合成环视视频和LiDAR扫描。

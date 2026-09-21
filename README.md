@@ -2096,6 +2096,11 @@
 
 ### 8.2 Autonomous Driving
 
+- **DriveVA: Video Action Models are Zero-Shot Drivers**
+  - Publication: ECCV 2026
+  - Highlights: Jointly predicts future video latents and driving actions, with zero-shot transfer to nuScenes and Bench2Drive.
+  - Paper Link: [Paper](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) | [Code](https://github.com/xiaomi-mlab/DriveVA)
+
 
 
 - **M⁴World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**
