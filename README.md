@@ -196,6 +196,11 @@
   - Highlights: Platform for reproducible world modeling research and evaluation.
   - Paper Link: [arXiv](https://arxiv.org/abs/2605.21800) | [Website](https://galilai-group.github.io/stable-worldmodel/) | [Code](https://github.com/galilai-group/stable-worldmodel)
 
+- **Simulusion: A PyTorch Library for World Models**
+  - Publication: Open-source library, 2026
+  - Highlights: Dreamer (V1/V2), PlaNet, IRIS, DIAMOND, Genie, DiT and I-JEPA behind one world-model API, with demos that train on a 4 GB laptop GPU and pretrained checkpoints on the Hugging Face Hub.
+  - Links: [Website](https://paramthakkar123.github.io/simulusion/) | [Code](https://github.com/ParamThakkar123/simulusion) | [Models](https://huggingface.co/collections/simillusion/simulusion-demo-models-6ae0419992e0177bc1695362)
+
 ---
 
 ## 📄 Foundation Papers & Technical Reports
