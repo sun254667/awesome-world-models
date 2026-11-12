@@ -290,6 +290,11 @@
 
 ### 4.2 Visual / Video World Models
 
+- 🆕 **FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation**
+  - Publication: NeurIPS 2026
+  - Highlights: Boids-based artificial life environment and an action-conditioned diffusion transformer that jointly generates synchronized egocentric videos for multiple agents.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.34564) | [Code](https://github.com/wangyz1999/flockworld)
+
 - 🆕 **Prisma-World: Camera-Controllable Multi-Agent Video World Model**
   - Publication: arXiv 2026
   - Highlights: Camera-controllable multi-agent video world model.
